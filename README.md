@@ -7,5 +7,6 @@ Adding Wish features like reporting and reviewing
 
 Dependencies:  Learn to use a database through rails
 
-Ruby version: 2.6.5 
-Rails version: 6.0.0
+Ruby version: 2.6.5p114
+Rails version: 6.0.2.1
+
